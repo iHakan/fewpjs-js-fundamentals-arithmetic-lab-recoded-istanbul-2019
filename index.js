@@ -8,6 +8,7 @@ let random = Math.floor(Math.random()*10)+1;
 
 let n;
 let k =n+4;
-let mod = k%n;
+
+let mod = (k%n==4);
 
 let max = Math.max(5,1,20,17,2,12,18);
