@@ -6,5 +6,7 @@ let multiply = num1*num2;
 
 let random = Math.floor(Math.random()*10)+1;
 
-let num3 = 9;
-let 
+let n;
+let mod = (n+4)%n;
+
+let max = Math.max()
